@@ -14,7 +14,7 @@ The project is built with FastAPI, a modern, fast (high-performance), web framew
 - **Documentation**: Comprehensive documentation for usage and implementation details.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/us-demographics-fastapi-project.git`
+1. Clone the repository: `git clone https://github.com/boopathiviky/usdemo-fastapi.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the FastAPI server: `uvicorn main:app --reload`
 4. Access the API at `http://localhost:8000` and explore the available endpoints.
